@@ -29,6 +29,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:apa102_sk9822
+LIBS:SK9822_MiniDisc-cache
 EELAYER 25 0
 EELAYER END
 $Descr A0 46811 33110
@@ -6647,7 +6648,7 @@ F 1 "CONN_01X04" V 1400 2250 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Angled_1x04" H 1300 2250 50  0001 C CNN
 F 3 "" H 1300 2250 50  0000 C CNN
 	1    1300 2250
-	-1   0    0    -1  
+	-1   0    0    1   
 $EndComp
 Text GLabel 1500 2100 2    60   Input ~ 0
 VCC
@@ -6670,7 +6671,7 @@ F 1 "CONN_01X04" V 4800 22850 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Angled_1x04" H 4700 22850 50  0001 C CNN
 F 3 "" H 4700 22850 50  0000 C CNN
 	1    4700 22850
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 Text GLabel 4500 22700 0    60   Input ~ 0
 VCC
