@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name CustomLED)(type KiCad)(uri "$(KIPRJMOD)/CustomLED.pretty")(options "")(descr ""))
+  (lib (name Conn)(type KiCad)(uri "$(KIPRJMOD)/Conn.pretty")(options "")(descr ""))
 )
