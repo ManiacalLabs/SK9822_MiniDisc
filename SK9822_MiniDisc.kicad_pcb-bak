@@ -14,24 +14,24 @@
 
   (page A2)
   (layers
-    (0 F.Cu signal hide)
-    (31 B.Cu signal hide)
-    (32 B.Adhes user hide)
-    (33 F.Adhes user hide)
-    (34 B.Paste user hide)
-    (35 F.Paste user hide)
-    (36 B.SilkS user hide)
-    (37 F.SilkS user hide)
-    (38 B.Mask user hide)
-    (39 F.Mask user hide)
+    (0 F.Cu signal)
+    (31 B.Cu signal)
+    (32 B.Adhes user)
+    (33 F.Adhes user)
+    (34 B.Paste user)
+    (35 F.Paste user)
+    (36 B.SilkS user)
+    (37 F.SilkS user)
+    (38 B.Mask user)
+    (39 F.Mask user)
     (40 Dwgs.User user hide)
-    (41 Cmts.User user hide)
-    (42 Eco1.User user hide)
-    (43 Eco2.User user hide)
-    (44 Edge.Cuts user hide)
-    (45 Margin user hide)
-    (46 B.CrtYd user hide)
-    (47 F.CrtYd user hide)
+    (41 Cmts.User user)
+    (42 Eco1.User user)
+    (43 Eco2.User user)
+    (44 Edge.Cuts user)
+    (45 Margin user)
+    (46 B.CrtYd user)
+    (47 F.CrtYd user)
     (48 B.Fab user)
     (49 F.Fab user)
   )
@@ -62,7 +62,7 @@
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.2)
     (aux_axis_origin 0 0)
-    (visible_elements FFFFF101)
+    (visible_elements FFFFFF7F)
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
@@ -7913,7 +7913,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D062 (at 0 -3.5 354) (layer Dwgs.User)
+    (fp_text reference D62 (at 0 -3.5 354) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 354) (layer F.Fab) hide
@@ -7950,7 +7950,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D063 (at 0 -3.5 348) (layer Dwgs.User)
+    (fp_text reference D63 (at 0 -3.5 348) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 348) (layer F.Fab) hide
@@ -7987,7 +7987,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D064 (at 0 -3.5 342) (layer Dwgs.User)
+    (fp_text reference D64 (at 0 -3.5 342) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 342) (layer F.Fab) hide
@@ -8024,7 +8024,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D065 (at 0 -3.5 336) (layer Dwgs.User)
+    (fp_text reference D65 (at 0 -3.5 336) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 336) (layer F.Fab) hide
@@ -8061,7 +8061,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D066 (at 0 -3.5 330) (layer Dwgs.User)
+    (fp_text reference D66 (at 0 -3.5 330) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 330) (layer F.Fab) hide
@@ -8098,7 +8098,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D067 (at 0 -3.5 324) (layer Dwgs.User)
+    (fp_text reference D67 (at 0 -3.5 324) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 324) (layer F.Fab) hide
@@ -8135,7 +8135,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D068 (at 0 -3.5 318) (layer Dwgs.User)
+    (fp_text reference D68 (at 0 -3.5 318) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 318) (layer F.Fab) hide
@@ -8172,7 +8172,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D069 (at 0 -3.5 312) (layer Dwgs.User)
+    (fp_text reference D69 (at 0 -3.5 312) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 312) (layer F.Fab) hide
@@ -8209,7 +8209,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D070 (at 0 -3.5 306) (layer Dwgs.User)
+    (fp_text reference D70 (at 0 -3.5 306) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 306) (layer F.Fab) hide
@@ -8246,7 +8246,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D071 (at 0 -3.5 300) (layer Dwgs.User)
+    (fp_text reference D71 (at 0 -3.5 300) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 300) (layer F.Fab) hide
@@ -8283,7 +8283,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D072 (at 0 -3.5 294) (layer Dwgs.User)
+    (fp_text reference D72 (at 0 -3.5 294) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 294) (layer F.Fab) hide
@@ -8320,7 +8320,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D073 (at 0 -3.5 288) (layer Dwgs.User)
+    (fp_text reference D73 (at 0 -3.5 288) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 288) (layer F.Fab) hide
@@ -8357,7 +8357,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D074 (at 0 -3.5 282) (layer Dwgs.User)
+    (fp_text reference D74 (at 0 -3.5 282) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 282) (layer F.Fab) hide
@@ -8394,7 +8394,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D075 (at 0 -3.5 276) (layer Dwgs.User)
+    (fp_text reference D75 (at 0 -3.5 276) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 276) (layer F.Fab) hide
@@ -8431,7 +8431,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D076 (at 0 -3.5 270) (layer Dwgs.User)
+    (fp_text reference D76 (at 0 -3.5 270) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 270) (layer F.Fab) hide
@@ -8468,7 +8468,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D077 (at 0 -3.5 264) (layer Dwgs.User)
+    (fp_text reference D77 (at 0 -3.5 264) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 264) (layer F.Fab) hide
@@ -8505,7 +8505,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D078 (at 0 -3.5 258) (layer Dwgs.User)
+    (fp_text reference D78 (at 0 -3.5 258) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 258) (layer F.Fab) hide
@@ -8542,7 +8542,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D079 (at 0 -3.5 252) (layer Dwgs.User)
+    (fp_text reference D79 (at 0 -3.5 252) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 252) (layer F.Fab) hide
@@ -8579,7 +8579,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D080 (at 0 -3.5 246) (layer Dwgs.User)
+    (fp_text reference D80 (at 0 -3.5 246) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 246) (layer F.Fab) hide
@@ -8616,7 +8616,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D081 (at 0 -3.5 240) (layer Dwgs.User)
+    (fp_text reference D81 (at 0 -3.5 240) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 240) (layer F.Fab) hide
@@ -8653,7 +8653,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D082 (at 0 -3.5 234) (layer Dwgs.User)
+    (fp_text reference D82 (at 0 -3.5 234) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 234) (layer F.Fab) hide
@@ -8690,7 +8690,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D083 (at 0 -3.5 228) (layer Dwgs.User)
+    (fp_text reference D83 (at 0 -3.5 228) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 228) (layer F.Fab) hide
@@ -8727,7 +8727,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D084 (at 0 -3.5 222) (layer Dwgs.User)
+    (fp_text reference D84 (at 0 -3.5 222) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 222) (layer F.Fab) hide
@@ -8764,7 +8764,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D085 (at 0 -3.5 216) (layer Dwgs.User)
+    (fp_text reference D85 (at 0 -3.5 216) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 216) (layer F.Fab) hide
@@ -8801,7 +8801,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D086 (at 0 -3.5 210) (layer Dwgs.User)
+    (fp_text reference D86 (at 0 -3.5 210) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 210) (layer F.Fab) hide
@@ -8838,7 +8838,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D087 (at 0 -3.5 204) (layer Dwgs.User)
+    (fp_text reference D87 (at 0 -3.5 204) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 204) (layer F.Fab) hide
@@ -8875,7 +8875,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D088 (at 0 -3.5 198) (layer Dwgs.User)
+    (fp_text reference D88 (at 0 -3.5 198) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 198) (layer F.Fab) hide
@@ -8912,7 +8912,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D089 (at 0 -3.5 192) (layer Dwgs.User)
+    (fp_text reference D89 (at 0 -3.5 192) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 192) (layer F.Fab) hide
@@ -8949,7 +8949,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D090 (at 0 -3.5 186) (layer Dwgs.User)
+    (fp_text reference D90 (at 0 -3.5 186) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 186) (layer F.Fab) hide
@@ -8986,7 +8986,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D091 (at 0 -3.5 180) (layer Dwgs.User)
+    (fp_text reference D91 (at 0 -3.5 180) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 180) (layer F.Fab) hide
@@ -9023,7 +9023,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D092 (at 0 -3.5 174) (layer Dwgs.User)
+    (fp_text reference D92 (at 0 -3.5 174) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 174) (layer F.Fab) hide
@@ -9060,7 +9060,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D093 (at 0 -3.5 168) (layer Dwgs.User)
+    (fp_text reference D93 (at 0 -3.5 168) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 168) (layer F.Fab) hide
@@ -9097,7 +9097,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D094 (at 0 -3.5 162) (layer Dwgs.User)
+    (fp_text reference D94 (at 0 -3.5 162) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 162) (layer F.Fab) hide
@@ -9134,7 +9134,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D095 (at 0 -3.5 156) (layer Dwgs.User)
+    (fp_text reference D95 (at 0 -3.5 156) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 156) (layer F.Fab) hide
@@ -9171,7 +9171,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D096 (at 0 -3.5 150) (layer Dwgs.User)
+    (fp_text reference D96 (at 0 -3.5 150) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 150) (layer F.Fab) hide
@@ -9208,7 +9208,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D097 (at 0 -3.5 144) (layer Dwgs.User)
+    (fp_text reference D97 (at 0 -3.5 144) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 144) (layer F.Fab) hide
@@ -9245,7 +9245,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D098 (at 0 -3.5 138) (layer Dwgs.User)
+    (fp_text reference D98 (at 0 -3.5 138) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 138) (layer F.Fab) hide
@@ -9282,7 +9282,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D099 (at 0 -3.5 132) (layer Dwgs.User)
+    (fp_text reference D99 (at 0 -3.5 132) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 132) (layer F.Fab) hide
@@ -10096,7 +10096,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D061 (at 0 -3.5) (layer Dwgs.User)
+    (fp_text reference D61 (at 0 -3.5) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4) (layer F.Fab) hide
@@ -10133,7 +10133,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D002 (at 0 -3.5 354) (layer Dwgs.User)
+    (fp_text reference D2 (at 0 -3.5 354) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 354) (layer F.Fab) hide
@@ -10170,7 +10170,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D003 (at 0 -3.5 348) (layer Dwgs.User)
+    (fp_text reference D3 (at 0 -3.5 348) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 348) (layer F.Fab) hide
@@ -10207,7 +10207,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D004 (at 0 -3.5 342) (layer Dwgs.User)
+    (fp_text reference D4 (at 0 -3.5 342) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 342) (layer F.Fab) hide
@@ -10244,7 +10244,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D005 (at 0 -3.5 336) (layer Dwgs.User)
+    (fp_text reference D5 (at 0 -3.5 336) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 336) (layer F.Fab) hide
@@ -10281,7 +10281,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D006 (at 0 -3.5 330) (layer Dwgs.User)
+    (fp_text reference D6 (at 0 -3.5 330) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 330) (layer F.Fab) hide
@@ -10318,7 +10318,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D007 (at 0 -3.5 324) (layer Dwgs.User)
+    (fp_text reference D7 (at 0 -3.5 324) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 324) (layer F.Fab) hide
@@ -10355,7 +10355,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D008 (at 0 -3.5 318) (layer Dwgs.User)
+    (fp_text reference D8 (at 0 -3.5 318) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 318) (layer F.Fab) hide
@@ -10392,7 +10392,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D009 (at 0 -3.5 312) (layer Dwgs.User)
+    (fp_text reference D9 (at 0 -3.5 312) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 312) (layer F.Fab) hide
@@ -10429,7 +10429,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D010 (at 0 -3.5 306) (layer Dwgs.User)
+    (fp_text reference D10 (at 0 -3.5 306) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 306) (layer F.Fab) hide
@@ -10466,7 +10466,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D011 (at 0 -3.5 300) (layer Dwgs.User)
+    (fp_text reference D11 (at 0 -3.5 300) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 300) (layer F.Fab) hide
@@ -10503,7 +10503,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D012 (at 0 -3.5 294) (layer Dwgs.User)
+    (fp_text reference D12 (at 0 -3.5 294) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 294) (layer F.Fab) hide
@@ -10540,7 +10540,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D013 (at 0 -3.5 288) (layer Dwgs.User)
+    (fp_text reference D13 (at 0 -3.5 288) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 288) (layer F.Fab) hide
@@ -10577,7 +10577,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D014 (at 0 -3.5 282) (layer Dwgs.User)
+    (fp_text reference D14 (at 0 -3.5 282) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 282) (layer F.Fab) hide
@@ -10614,7 +10614,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D015 (at 0 -3.5 276) (layer Dwgs.User)
+    (fp_text reference D15 (at 0 -3.5 276) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 276) (layer F.Fab) hide
@@ -10651,7 +10651,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D016 (at 0 -3.5 270) (layer Dwgs.User)
+    (fp_text reference D16 (at 0 -3.5 270) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 270) (layer F.Fab) hide
@@ -10688,7 +10688,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D017 (at 0 -3.5 264) (layer Dwgs.User)
+    (fp_text reference D17 (at 0 -3.5 264) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 264) (layer F.Fab) hide
@@ -10725,7 +10725,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D018 (at 0 -3.5 258) (layer Dwgs.User)
+    (fp_text reference D18 (at 0 -3.5 258) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 258) (layer F.Fab) hide
@@ -10762,7 +10762,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D019 (at 0 -3.5 252) (layer Dwgs.User)
+    (fp_text reference D19 (at 0 -3.5 252) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 252) (layer F.Fab) hide
@@ -10799,7 +10799,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D020 (at 0 -3.5 246) (layer Dwgs.User)
+    (fp_text reference D20 (at 0 -3.5 246) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 246) (layer F.Fab) hide
@@ -10836,7 +10836,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D021 (at 0 -3.5 240) (layer Dwgs.User)
+    (fp_text reference D21 (at 0 -3.5 240) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 240) (layer F.Fab) hide
@@ -10873,7 +10873,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D022 (at 0 -3.5 234) (layer Dwgs.User)
+    (fp_text reference D22 (at 0 -3.5 234) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 234) (layer F.Fab) hide
@@ -10910,7 +10910,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D023 (at 0 -3.5 228) (layer Dwgs.User)
+    (fp_text reference D23 (at 0 -3.5 228) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 228) (layer F.Fab) hide
@@ -10947,7 +10947,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D024 (at 0 -3.5 222) (layer Dwgs.User)
+    (fp_text reference D24 (at 0 -3.5 222) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 222) (layer F.Fab) hide
@@ -10984,7 +10984,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D025 (at 0 -3.5 216) (layer Dwgs.User)
+    (fp_text reference D25 (at 0 -3.5 216) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 216) (layer F.Fab) hide
@@ -11021,7 +11021,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D026 (at 0 -3.5 210) (layer Dwgs.User)
+    (fp_text reference D26 (at 0 -3.5 210) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 210) (layer F.Fab) hide
@@ -11058,7 +11058,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D027 (at 0 -3.5 204) (layer Dwgs.User)
+    (fp_text reference D27 (at 0 -3.5 204) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 204) (layer F.Fab) hide
@@ -11095,7 +11095,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D028 (at 0 -3.5 198) (layer Dwgs.User)
+    (fp_text reference D28 (at 0 -3.5 198) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 198) (layer F.Fab) hide
@@ -11132,7 +11132,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D029 (at 0 -3.5 192) (layer Dwgs.User)
+    (fp_text reference D29 (at 0 -3.5 192) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 192) (layer F.Fab) hide
@@ -11169,7 +11169,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D030 (at 0 -3.5 186) (layer Dwgs.User)
+    (fp_text reference D30 (at 0 -3.5 186) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 186) (layer F.Fab) hide
@@ -11206,7 +11206,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D031 (at 0 -3.5 180) (layer Dwgs.User)
+    (fp_text reference D31 (at 0 -3.5 180) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 180) (layer F.Fab) hide
@@ -11243,7 +11243,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D032 (at 0 -3.5 174) (layer Dwgs.User)
+    (fp_text reference D32 (at 0 -3.5 174) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 174) (layer F.Fab) hide
@@ -11280,7 +11280,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D033 (at 0 -3.5 168) (layer Dwgs.User)
+    (fp_text reference D33 (at 0 -3.5 168) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 168) (layer F.Fab) hide
@@ -11317,7 +11317,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D034 (at 0 -3.5 162) (layer Dwgs.User)
+    (fp_text reference D34 (at 0 -3.5 162) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 162) (layer F.Fab) hide
@@ -11354,7 +11354,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D035 (at 0 -3.5 156) (layer Dwgs.User)
+    (fp_text reference D35 (at 0 -3.5 156) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 156) (layer F.Fab) hide
@@ -11391,7 +11391,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D036 (at 0 -3.5 150) (layer Dwgs.User)
+    (fp_text reference D36 (at 0 -3.5 150) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 150) (layer F.Fab) hide
@@ -11428,7 +11428,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D037 (at 0 -3.5 144) (layer Dwgs.User)
+    (fp_text reference D37 (at 0 -3.5 144) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 144) (layer F.Fab) hide
@@ -11465,7 +11465,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D038 (at 0 -3.5 138) (layer Dwgs.User)
+    (fp_text reference D38 (at 0 -3.5 138) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 138) (layer F.Fab) hide
@@ -11502,7 +11502,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D039 (at 0 -3.5 132) (layer Dwgs.User)
+    (fp_text reference D39 (at 0 -3.5 132) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 132) (layer F.Fab) hide
@@ -11539,7 +11539,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D040 (at 0 -3.5 126) (layer Dwgs.User)
+    (fp_text reference D40 (at 0 -3.5 126) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 126) (layer F.Fab) hide
@@ -11576,7 +11576,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D041 (at 0 -3.5 120) (layer Dwgs.User)
+    (fp_text reference D41 (at 0 -3.5 120) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 120) (layer F.Fab) hide
@@ -11613,7 +11613,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D042 (at 0 -3.5 114) (layer Dwgs.User)
+    (fp_text reference D42 (at 0 -3.5 114) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 114) (layer F.Fab) hide
@@ -11650,7 +11650,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D043 (at 0 -3.5 108) (layer Dwgs.User)
+    (fp_text reference D43 (at 0 -3.5 108) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 108) (layer F.Fab) hide
@@ -11687,7 +11687,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D044 (at 0 -3.5 102) (layer Dwgs.User)
+    (fp_text reference D44 (at 0 -3.5 102) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 102) (layer F.Fab) hide
@@ -11724,7 +11724,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D045 (at 0 -3.5 96) (layer Dwgs.User)
+    (fp_text reference D45 (at 0 -3.5 96) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 96) (layer F.Fab) hide
@@ -11761,7 +11761,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D046 (at 0 -3.5 90) (layer Dwgs.User)
+    (fp_text reference D46 (at 0 -3.5 90) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 90) (layer F.Fab) hide
@@ -11798,7 +11798,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D047 (at 0 -3.5 84) (layer Dwgs.User)
+    (fp_text reference D47 (at 0 -3.5 84) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 84) (layer F.Fab) hide
@@ -11835,7 +11835,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D048 (at 0 -3.5 78) (layer Dwgs.User)
+    (fp_text reference D48 (at 0 -3.5 78) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 78) (layer F.Fab) hide
@@ -11872,7 +11872,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D049 (at 0 -3.5 72) (layer Dwgs.User)
+    (fp_text reference D49 (at 0 -3.5 72) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 72) (layer F.Fab) hide
@@ -11909,7 +11909,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D050 (at 0 -3.5 66) (layer Dwgs.User)
+    (fp_text reference D50 (at 0 -3.5 66) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 66) (layer F.Fab) hide
@@ -11946,7 +11946,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D051 (at 0 -3.5 60) (layer Dwgs.User)
+    (fp_text reference D51 (at 0 -3.5 60) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 60) (layer F.Fab) hide
@@ -11983,7 +11983,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D052 (at 0 -3.5 54) (layer Dwgs.User)
+    (fp_text reference D52 (at 0 -3.5 54) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 54) (layer F.Fab) hide
@@ -12020,7 +12020,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D053 (at 0 -3.5 48) (layer Dwgs.User)
+    (fp_text reference D53 (at 0 -3.5 48) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 48) (layer F.Fab) hide
@@ -12057,7 +12057,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D054 (at 0 -3.5 42) (layer Dwgs.User)
+    (fp_text reference D54 (at 0 -3.5 42) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 42) (layer F.Fab) hide
@@ -12094,7 +12094,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D055 (at 0 -3.5 36) (layer Dwgs.User)
+    (fp_text reference D55 (at 0 -3.5 36) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 36) (layer F.Fab) hide
@@ -12131,7 +12131,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D056 (at 0 -3.5 30) (layer Dwgs.User)
+    (fp_text reference D56 (at 0 -3.5 30) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 30) (layer F.Fab) hide
@@ -12168,7 +12168,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D057 (at 0 -3.5 24) (layer Dwgs.User)
+    (fp_text reference D57 (at 0 -3.5 24) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 24) (layer F.Fab) hide
@@ -12205,7 +12205,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D058 (at 0 -3.5 18) (layer Dwgs.User)
+    (fp_text reference D58 (at 0 -3.5 18) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 18) (layer F.Fab) hide
@@ -12242,7 +12242,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D059 (at 0 -3.5 12) (layer Dwgs.User)
+    (fp_text reference D59 (at 0 -3.5 12) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 12) (layer F.Fab) hide
@@ -12279,7 +12279,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D060 (at 0 -3.5 6) (layer Dwgs.User)
+    (fp_text reference D60 (at 0 -3.5 6) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4 6) (layer F.Fab) hide
@@ -12316,7 +12316,7 @@
     (descr https://cpldcpu.files.wordpress.com/2016/12/sk9822-led-datasheet.pdf)
     (tags "LED RGB")
     (attr smd)
-    (fp_text reference D001 (at 0 -3.5) (layer Dwgs.User)
+    (fp_text reference D1 (at 0 -3.5) (layer Dwgs.User)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value SK9822 (at 0 4) (layer F.Fab) hide
