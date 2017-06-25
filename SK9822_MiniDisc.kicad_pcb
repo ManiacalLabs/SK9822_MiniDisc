@@ -3,7 +3,7 @@
   (general
     (links 1408)
     (no_connects 14)
-    (area 189.924999 89.924999 410.075001 310.075001)
+    (area 189.924999 87.966666 410.075001 312.033333)
     (thickness 1.6)
     (drawings 20)
     (tracks 3898)
@@ -67,7 +67,7 @@
     (aux_axis_origin 0 0)
     (visible_elements FFFFF57F)
     (pcbplotparams
-      (layerselection 0x00030_80000001)
+      (layerselection 0x310fc_80000007)
       (usegerberextensions false)
       (excludeedgelayer true)
       (linewidth 0.100000)
@@ -88,9 +88,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory PixelDiscGerber/))
   )
 
   (net 0 "")
