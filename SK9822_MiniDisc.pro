@@ -1,4 +1,4 @@
-update=Thu 15 Jun 2017 08:49:33 PM EDT
+update=7/4/2017 9:11:51 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=mods/apa102_sk9822
+[general]
+version=1
